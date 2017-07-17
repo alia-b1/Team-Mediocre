@@ -1,22 +1,39 @@
 @import url(https://fonts.google.com/specimen/Quicksand);
-.head h1  {
-font-size: 36px;
+#head h1  {
+font-size: 50px;
 text-align: left;
-background-color: #b87bbd;
+background-color: rgba(179,94,186,1);
+background: -webkit-linear-gradient(bottom, rgba(179,94,186,1), rgba(209,121,207,.5));
+background: -moz-linear-gradient(bottom, rgba(179,94,186,1), rgba(209,121,207,.4));
+background: linear-gradient(bottom, rgba(179,94,186,1), rgba(209,121,207,.4));
 font-family: "Quicksand", sans-serif;
+margin: 0;
+padding-top: 50px;
+
 }
 /*font for quotations*/
 @import url(https://fonts.google.com/specimen/Bellefair);
-h1 {
+.quotations h1 {
   font-size: 28px;
   text-align: center;
   font-family: "Bellefair", serif;
+  max-width: 900px;
+  padding: 70px;
+  position: relative;
 }
 /*font for subtext*/
 h2 {
 font-size: 18px;
 text-align: left;
 font-family: "Quicksand", sans-serif;
+}
+#icons {
+  position: absolute;
+  bottom: 0;
+  overflow: hidden;
+  height: auto;
+  width: 100%;
+
 }
 .fa {
   padding: 20px;
@@ -25,19 +42,20 @@ font-family: "Quicksand", sans-serif;
   text-align: center;
   text-decoration: none;
   border-radius: 50%;
+  float: center;
 }
 .fa:hover {
   opacity: 0.7;
 }
 .fa-facebook {
-  background: #3B5998
+  background-color: #3B5998
   color: white;
 }
 .fa-twitter {
-  background: #55ACEE;
+  background-color: #55ACEE;
   color: white;
 }
 .fa-linkedin {
-  background: #0077B5
+  background-color: #0077B5
   color: white;
 }
