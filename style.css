@@ -1,0 +1,111 @@
+<style>
+
+header {
+      text-align: center;
+      background-image: url("http://braincando.com/wp-content/uploads/2016/04/Girl-with-Brain-Website-Image-2000x1161.jpg");
+      background-size: cover;
+      color: white;
+    }
+
+    a {
+      color: white;
+      text-align: right;
+    }
+    h1 {
+      font-size: 70px;
+    }
+    img {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 20px;
+    }
+    ul {
+      padding: 10px;
+      background: black;
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+
+
+
+	.about-us-container {
+		font-style: normal;
+		font-stretch: normal;
+		color: #363636;
+	}
+
+	.about-us-container .about-us-header-content {
+		text-align: center;
+		background-color: white;
+		padding: 4em;
+	}
+
+	.about-us-container .about-us-header-content .title-header {
+		font-size: 3em;
+		font-weight: 600;
+		line-height: 1.17;
+		margin: 0;
+	}
+
+	.about-us-container .about-us-header-content .center-text-header {
+		text-align: center;
+		padding: 0;
+		margin: 9px;
+        font-size: 1.125em;
+        line-height: 1.33;
+	}
+
+	.about-us-container .about-us-header-content .center-text-header p {
+		font-size: 1.125em;
+		line-height: 1.33;
+	}
+
+
+	.about-us-container .content-container {
+		background-color: #f4f4f4;
+		display: flex;
+		flex-flow: row wrap;
+		justify-content: space-between;
+		padding: 5vw;
+	}
+	.about-us-container .content-container .row-box {
+		background-color: #ffffff;
+		display: flex;
+		flex-direction: column;
+		text-align: center;
+		flex: 0 0 32%;
+		padding: 2.33vw 3.33vw;
+		justify-content: flex-start;
+	}
+
+	.about-us-container .content-container .row-box .box-icon {
+		padding: 0 0 20px;
+	}
+
+	.about-us-container .content-container .row-box .box-icon img {
+		height: 7em;
+	}
+
+	.about-us-container .content-container .row-box .box-title {
+		font-size: 1.5em;
+		font-weight: 600;
+		line-height: 1.25;
+		margin-bottom: 10px;
+	}
+
+	.about-us-container .content-container .row-box .box-content {
+		font-size: 16px;
+		line-height: 1.25;
+		color: #707070;
+		padding: 0 10px 10px;
+	}
+
+img {
+	display: inline;
+    border: 7px solid white;
+    border-radius: 100%;
+}
+
+</style>
