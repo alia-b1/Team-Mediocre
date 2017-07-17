@@ -1,0 +1,15 @@
+<! DOCTYPE html>
+<head>
+<title>About Us</title>
+</head>
+<body
+<main id=about-us-with-us class=content-area>
+<div class=about-us-container>
+<div class=about-us-header-content>
+<h1 class=title-header>Hello, we are Culture Trip</h1>
+<div class=center-text-header>
+Culture Trip brings you personalized content and recommendations, wherever you are, wherever you go.<br>
+By sharing our local knowledge, we help you discover the world and inspire you to explore, share and connect with others.
+</div>
+</body>
+</html>
