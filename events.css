@@ -1,6 +1,18 @@
 * {box-sizing:border-box;}
 ul {list-style-type: none;}
-body {font-family: Verdana,sans-serif;}
+#head h1  {
+font-size: 50px;
+text-align: left;
+background-color: rgba(179,94,186,1);
+background: -webkit-linear-gradient(bottom, rgba(179,94,186,1), rgba(209,121,207,.5));
+background: -moz-linear-gradient(bottom, rgba(179,94,186,1), rgba(209,121,207,.4));
+background: linear-gradient(bottom, rgba(179,94,186,1), rgba(209,121,207,.4));
+font-family: "Quicksand", sans-serif;
+margin: 0;
+padding-top: 50px;
+}
+
+body
 
 .icon {
   font-size: 50px;
