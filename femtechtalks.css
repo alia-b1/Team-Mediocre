@@ -17,6 +17,7 @@ header {
       background-color: black;
       background-size: cover;
       color: white;
+      display: block;
     }
 
 /*font for quotations*/
