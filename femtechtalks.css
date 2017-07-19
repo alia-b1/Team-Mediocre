@@ -11,6 +11,14 @@ margin: 0;
 padding-top: 50px;
 
 }
+
+header {
+      text-align: center;
+      background-color: black;
+      background-size: cover;
+      color: white;
+    }
+
 /*font for quotations*/
 @import url(https://fonts.google.com/specimen/Bellefair);
 .quotations h1 {
