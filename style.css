@@ -108,4 +108,9 @@ img {
     border-radius: 100%;
 }
 
+.icon {
+  font-size: 50px;
+  margin: 4%;
+}
+
 </style>
