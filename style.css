@@ -1,5 +1,19 @@
 <style>
 
+* {box-sizing:border-box;}
+ul {list-style-type: none;}
+#head h1  {
+font-size: 50px;
+text-align: left;
+background-color: rgba(179,94,186,1);
+background: -webkit-linear-gradient(bottom, rgba(179,94,186,1), rgba(209,121,207,.5));
+background: -moz-linear-gradient(bottom, rgba(179,94,186,1), rgba(209,121,207,.4));
+background: linear-gradient(bottom, rgba(179,94,186,1), rgba(209,121,207,.4));
+font-family: "Quicksand", sans-serif;
+margin: 0;
+padding-top: 50px;
+}
+
 header {
       text-align: center;
       background-image: url("http://braincando.com/wp-content/uploads/2016/04/Girl-with-Brain-Website-Image-2000x1161.jpg");
