@@ -9,7 +9,6 @@ background: linear-gradient(bottom, rgba(179,94,186,1), rgba(209,121,207,.4));
 font-family: "Quicksand", sans-serif;
 margin: 0;
 padding-top: 50px;
-
 }
 
 header {
@@ -71,27 +70,23 @@ font-family: "Quicksand", sans-serif;
   text-align: center;
   text-decoration: none;
   border-radius: 50%;
-  float: center;
 }
 .fa:hover {
   opacity: 0.7;
 }
 .fa-facebook {
-  background-color: #3B5998
+  background-color: rgb(59, 89, 152);
   color: white;
 }
 .fa-twitter {
-  background-color: #55ACEE;
+  background-color: rgb(85, 172, 238);
   color: white;
 }
 .fa-instagram {
-  background-color: #0077B5
+  background-color:rgb(18, 86, 136);
   color: white;
 }
-.icon {
-  font-size: 50px;
-  margin: 5%;
-}
+
 .text {
   max-width: 900px;
   padding: 40px;
